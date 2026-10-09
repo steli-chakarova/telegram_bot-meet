@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+credentials.json
+token.json
+*.log
+.railway/
+bin/
+.railway_api_token
